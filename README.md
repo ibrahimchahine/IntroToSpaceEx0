@@ -19,7 +19,7 @@ First we address the vs and dvs, see the figure bellow:
 
 We can see that in the simulation, the craft tried to adjust the vs to the desired vs.
 so in the end we got to vs=1.86, and fuel=10.7.
-These were our best results.
+These were our results, for more (see [Results csv](https://github.com/ibrahimchahine/IntroToSpaceEx0/blob/main/results/our_simulation.csv)) .
 
 #### Authors
 Ibrahim Chahine, Yehonatan Amosi
