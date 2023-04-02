@@ -21,7 +21,7 @@ We can see that in the simulation, the craft tried to adjust the vs to the desir
 so in the end we got to vs=1.86, and fuel=10.7.
 These were our results, for more (see [Results csv](https://github.com/ibrahimchahine/IntroToSpaceEx0/blob/main/results/our_simulation.csv)) .
 
-## Run code
+## How to Run our Code
 If you want to run the code please go to the Bereshit_101.java class and run it.
 
 #### Authors
