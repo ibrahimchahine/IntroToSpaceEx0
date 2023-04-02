@@ -85,11 +85,8 @@ public class Bereshit_101 {
         double P = 0.03;
         double I = 0.0003;
         double D = 0.2;
-        double P_ang = 0.003;
-        double I_ang = 0.0003;
-        double D_ang = 0.02;
         PID pid = new PID(P, I, D, 100);
-        PID ang_pid = new PID(P_ang, I_ang, D_ang, 100);
+        PID ang_pid = new PID(P, I, D, 100);
         // ***** main simulation loop ******
         while (ber.get_alt() > 0) {
             ber.step(dt);
