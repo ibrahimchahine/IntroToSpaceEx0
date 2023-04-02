@@ -16,6 +16,7 @@ In this part we added the PID class to the implementation given to use by our le
 In this part we will list our results for the simulation.
 First we address the vs and dvs, see the figure bellow:
 ![Graph for the vs and dvs](https://github.com/ibrahimchahine/IntroToSpaceEx0/blob/main/pics/VS_DVS.png)
+
 We can see that in the simulation, the craft tried to adjust the vs to the desired vs.
 so in the end we got to vs~1.86, and fuel~10.7.
 These were our best results.
